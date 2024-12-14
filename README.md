@@ -1,5 +1,7 @@
 <h1 align="center">
-  Hi, I'm Md. Boni Amin 👋
+  <a href="https://github.com/boniamin4444">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00CFFF&background=FFFFFF00&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Md.+Boni+Amin;A+Full+Stack+Web+Developer;Welcome+to+my+GitHub!">
+  </a>
 </h1>
 
 👑 I am a Web Developer  
