@@ -1,10 +1,19 @@
 <h1 align="center">
-  <a href="https://github.com/boniamin4444">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00CFFF&background=FFFFFF00&center=true&vCenter=true&width=800&height=80&lines=Hi,+I'm+Md.+Boni+Amin">
-  </a>
+  Hi, I'm Md. Boni Amin 👋
 </h1>
 
-# 🚀 Skills & Expertise  
+👑 I am a Web Developer  
+🖊️ Love to write code  
+🎤 Like to share my knowledge  
+
+---
+
+# 🚀 About Me  
+I’m a Full Stack Web Developer passionate about creating user-friendly, error-free websites with 100% client satisfaction. I thrive on learning and sharing knowledge openly. My focus is on solving real-world problems with strategic, goal-oriented approaches. Over the years, I have delivered 100+ successful projects, ensuring top-notch quality and communication. My preferred tools include **PHP**, **Laravel**, **JavaScript**, and **ReactJS**.
+
+---
+
+## 👨‍💻 Skills & Expertise  
 
 ### **Programming Languages & Frameworks**  
 - **PHP** | **Laravel** | **WordPress**  
@@ -22,9 +31,6 @@
 - Prototyping with **Figma**  
 - Version Control: **Git**  
 
-### **Other Expertise**  
-- Computer Fundamentals | Debugging | Problem Solving  
-
 ---
 
 ## 🌱 What I’m Learning  
@@ -34,14 +40,16 @@ I’m constantly exploring new technologies to stay updated in the fast-evolving
 
 ---
 
-## 🏆 Projects & Contributions  
-I love to work on meaningful projects and contribute to the open-source community. You can check out some of my works here:  
+## 🏆 Popular Repositories  
+- **E-Commerce Platform**: Complete e-commerce solution built with Laravel and Vue.js.  
+- **Portfolio Website**: Showcasing a professional portfolio design with ReactJS.  
+- **Blog Management System**: Developed using WordPress and custom plugins.  
 👉 [View My GitHub Repositories](https://github.com/boniamin4444)  
 
 ---
 
-## 💬 Let's Connect!  
-I enjoy collaborating with other developers and learning together. Feel free to reach out:  
+## ☕ Connect with Me!  
+Feel free to reach out for collaborations or discussions:  
 - 📧 Email: [boniamin4444@gmail.com](mailto:boniamin4444@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/md-boni-amin-365900333/](https://www.linkedin.com/in/md-boni-amin-365900333/)  
 
